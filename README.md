@@ -31,4 +31,5 @@ RocksDB is dual-licensed under both the GPLv2 (found in the COPYING file in the 
 ## 個人發現
 
 build_tools/regression_build_test.sh 包含一些db_bench的參數
+
 include/rocksdb/advanced_options.h 第438行的num_levels=7 為預設levels大小。
