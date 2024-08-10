@@ -27,3 +27,7 @@ Questions and discussions are welcome on the [RocksDB Developers Public](https:/
 ## License
 
 RocksDB is dual-licensed under both the GPLv2 (found in the COPYING file in the root directory) and Apache 2.0 License (found in the LICENSE.Apache file in the root directory).  You may select, at your option, one of the above-listed licenses.
+
+## 個人發現
+
+build_tools/regression_build_test.sh 包含一些db_bench的參數
