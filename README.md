@@ -35,3 +35,7 @@ build_tools/regression_build_test.sh 包含一些db_bench的參數。
 include/rocksdb/advanced_options.h 第438行的num_levels=7 為預設levels大小。
 
 include/rocksdb/advanced_options.h 第555行的level_compaction_dynamic_level_bytes預設為true。
+
+include/rocksdb/advanced_options.h 第414行的註記，說明dynamic_level的行為模式。
+
+include/rocksdb/advanced_options.h 第497行的註記，舉例dynamic_level形成的結果。
