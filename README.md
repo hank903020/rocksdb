@@ -39,3 +39,5 @@ include/rocksdb/advanced_options.h 第555行的level_compaction_dynamic_level_by
 include/rocksdb/advanced_options.h 第414行的註記，說明dynamic_level的行為模式。
 
 include/rocksdb/advanced_options.h 第497行的註記，舉例dynamic_level形成的結果。
+
+rocksdb/db/version_set.cc 第4738行說明dynamic leveling的comapction過程。
